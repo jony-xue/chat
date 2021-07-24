@@ -1,0 +1,10 @@
+/home/xyg/Desktop/xygchat/build/CMakeFiles/rebuild_cache.dir
+/home/xyg/Desktop/xygchat/build/CMakeFiles/edit_cache.dir
+/home/xyg/Desktop/xygchat/build/src/CMakeFiles/rebuild_cache.dir
+/home/xyg/Desktop/xygchat/build/src/CMakeFiles/edit_cache.dir
+/home/xyg/Desktop/xygchat/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/xyg/Desktop/xygchat/build/src/server/CMakeFiles/edit_cache.dir
+/home/xyg/Desktop/xygchat/build/src/server/CMakeFiles/Chatserver.dir
+/home/xyg/Desktop/xygchat/build/src/client/CMakeFiles/rebuild_cache.dir
+/home/xyg/Desktop/xygchat/build/src/client/CMakeFiles/edit_cache.dir
+/home/xyg/Desktop/xygchat/build/src/client/CMakeFiles/ChatClient.dir
